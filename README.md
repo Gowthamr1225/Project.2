@@ -1,5 +1,5 @@
 # Project.2
-                                Chococrunch_Analytics
+#                                Chococrunch_Analytics
 ## Project Overview
 
 • End-to-end data analytics project focused on chocolate product nutrition and brand insights.
@@ -31,9 +31,22 @@ Sugar-to-carb ratio, calorie & sugar categories, ultra-processed flag.
 
 🛠️ **Tech Stack**
 🐍 Python (Pandas, NumPy, Matplotib) → Data cleaning, preprocessing, Feature engineering, Visualization.
-🗄️ MySQL (XAMPP) → Database and SQL queries.
+🗄️ MySQL (XAMPP) → Database, Table Creation, Data Insert and SQL queries.
 📊 Power BI Desktop → Dashboard visualization.
 📘 Excel → Data validation and export.
 
 
 📊 **Power BI Visualizations**
+• KPI Cards → Average calories, average sugars, ultra-processed count.
+• Pie Chart → Sugar category Distribution 
+• Donut Chart → Nova_Group Distribution 
+• Column Chart → Average Calories Top Brands
+• Bar Chart → Top Brands in High Sugars
+
+💡 **Key Insights**
+1.Strong positive correlation between calories and sugars.
+2.High sugar and high calorie categories overlap significantly.
+
+🌟 **Acknowledgment**
+Developed as part of my Data Analytics Learning Project.
+Combines real-world data cleaning, SQL database design, and Power BI dashboarding.
