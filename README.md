@@ -50,3 +50,8 @@ Sugar-to-carb ratio, calorie & sugar categories, ultra-processed flag.
 🌟 **Acknowledgment**
 Developed as part of my Data Analytics Learning Project.
 Combines real-world data cleaning, SQL database design, and Power BI dashboarding.
+
+<img width="566" height="332" alt="image" src="https://github.com/user-attachments/assets/a68fcab6-749f-4960-a87c-016d4ff5032f" />
+<img width="563" height="343" alt="image" src="https://github.com/user-attachments/assets/39a1994c-d0a3-4c55-86cf-16b0bdcbcbc4" />
+
+
